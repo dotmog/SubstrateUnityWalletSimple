@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "key": "Empty",
+      "value": "Leer"
+    },
+    {
+      "key": "Login.CreateAccountText",
+      "value": "Neues Konto"
+    },
+    {
+      "key": "Login.DecryptText",
+      "value": "Decodieren"
+    },
+    {
+      "key": "Login.PswDummyText",
+      "value": "Passwort eingeben ..."
+    },
+    {
+      "key": "Login.PswText",
+      "value": "Privater Schlüssel Encrypten"
+    },
+    {
+      "key": "Login.NoWalletText",
+      "value": "Du hast kein Wallet gespeichert auf diesem Gerät, lass uns ein neues erstellen!"
+    },
+    {
+      "key": "Login.MessageText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.MessageText.NoAccount",
+      "value": "There is no account currently please open up a new account."
+    },
+    {
+      "key": "Login.MessageText.Ready",
+      "value": "Ready to take off!"
+    },
+    {
+      "key": "Login.MessageText.NewAccount",
+      "value": "Please enter name and passwort of your new account."
+    },
+    {
+      "key": "Login.MessageText.InvalidWalletName",
+      "value": "Invalid walletname, please be sure to use correct pattern."
+    },
+    {
+      "key": "Login.MessageText.InvalidPassword",
+      "value": "Invalid password, at least one of upper, lower and digit letter."
+    },
+    {
+      "key": "Login.MessageText.WrongPassword",
+      "value": "Wrong password, couldn't unlock account."
+    },
+    {
+      "key": "Login.MessageText.AccountFailed",
+      "value": "Couldn't create a new account, please contact support!"
+    },
+    {
+      "key": "Login.ConnectionText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.ConnectionText.On",
+      "value": "ON"
+    },
+    {
+      "key": "Login.ConnectionText.Off",
+      "value": "OFF"
+    },
+    {
+      "key": "Message.Title.CREATE",
+      "value": "CREATE MOGWAI"
+    },
+    {
+      "key": "Message.Text.CREATE",
+      "value": "This will force a mogwai soul into a prepared body."
+    },
+    {
+      "key": "Message.Title.BREED",
+      "value": "BREED MOGWAI"
+    },
+    {
+      "key": "Message.Text.BREED",
+      "value": "Pairing two mogwais together will always lead to a miracle where stellar souls will join to celebrate the birth giving event."
+    },
+    {
+      "key": "Message.Title.SACRIFICE",
+      "value": "SACRIFICE MOGWAI"
+    },
+    {
+      "key": "Message.Text.SACRIFICE",
+      "value": "Removing the soul from this body is a final decision, there is no way back, there might be some undiscovered secrets."
+    },
+    {
+      "key": "Message.Title.MORPH",
+      "value": "MORPH MOGWAI"
+    },
+    {
+      "key": "Message.Text.MORPH",
+      "value": "Morphing a hybrid mogwai will replace his genetic pool fragments into one of four other combinations."
+    },
+    {
+      "key": "Message.Button.CREATE",
+      "value": "CREATE"
+    },
+    {
+      "key": "Message.Button.CANCEL",
+      "value": "CANCEL"
+    },
+    {
+      "key": "Message.Button.BREED",
+      "value": "BREED"
+    },
+    {
+      "key": "Message.Button.SACRIFICE",
+      "value": "SACRIFICE"
+    },
+    {
+      "key": "Message.Button.MORPH",
+      "value": "MORPH"
+    },
+    {
+      "key": "scene.textfield_name",
+      "value": "text and <color=green>color</color>"
+    }
+  ]
+}

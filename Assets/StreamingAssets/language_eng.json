@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "key": "Empty",
+      "value": "Empty"
+    },
+    {
+      "key": "Intro.Button.Start",
+      "value": "START"
+    },
+    {
+      "key": "Login.CreateAccountText",
+      "value": "Create Account"
+    },
+    {
+      "key": "Login.DecryptText",
+      "value": "Decrypt"
+    },
+    {
+      "key": "Login.PswDummyText",
+      "value": "Enter password here ..."
+    },
+    {
+      "key": "Login.PswText",
+      "value": "Private Key Encryption"
+    },
+    {
+      "key": "Login.NoWalletText",
+      "value": "You don't have a wallet stored on this device, we will create a new one for you!"
+    },
+    {
+      "key": "Login.MessageText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.MessageText.NoAccount",
+      "value": "There is no account currently, please open up a new account."
+    },
+    {
+      "key": "Login.MessageText.Ready",
+      "value": "Ready to take off!"
+    },
+    {
+      "key": "Login.MessageText.NewAccount",
+      "value": "Please enter name and password of your new account."
+    },
+    {
+      "key": "Login.MessageText.InvalidWalletName",
+      "value": "Invalid walletname, please be sure to use correct pattern."
+    },
+    {
+      "key": "Login.MessageText.InvalidPassword",
+      "value": "Invalid password, at least one of upper, lower and digit letter."
+    },
+    {
+      "key": "Login.MessageText.WrongPassword",
+      "value": "Wrong password, couldn't unlock account."
+    },
+    {
+      "key": "Login.MessageText.AccountFailed",
+      "value": "Couldn't create a new account, please contact support!"
+    },
+    {
+      "key": "Login.ConnectionText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.ConnectionText.On",
+      "value": "ON"
+    },
+    {
+      "key": "Login.ConnectionText.Off",
+      "value": "OFF"
+    },
+    {
+      "key": "Message.Title.CREATE",
+      "value": "CREATE MOGWAI"
+    },
+    {
+      "key": "Message.Text.CREATE",
+      "value": "This will force a mogwai soul into a prepared body."
+    },
+    {
+      "key": "Message.Title.BREED",
+      "value": "BREED MOGWAI"
+    },
+    {
+      "key": "Message.Text.BREED",
+      "value": "Pairing two mogwais together will always lead to a miracle where stellar souls will join to celebrate the birth giving event."
+    },
+    {
+      "key": "Message.Title.SACRIFICE",
+      "value": "SACRIFICE MOGWAI"
+    },
+    {
+      "key": "Message.Text.SACRIFICE",
+      "value": "Removing the soul from this body is a final decision, there is no way back, there might be some undiscovered secrets."
+    },
+    {
+      "key": "Message.Title.MORPH",
+      "value": "MORPH MOGWAI"
+    },
+    {
+      "key": "Message.Text.MORPH",
+      "value": "Morphing a hybrid mogwai will replace his genetic pool fragments into one of four other combinations."
+    },
+    {
+      "key": "Message.Title.PRICE",
+      "value": "PRICE MOGWAI"
+    },
+    {
+      "key": "Message.Text.PRICE",
+      "value": "Pricing a mogwai will make it buyable to anyone in the universe, remove price if you desire to keep him."
+    },
+    {
+      "key": "Message.Button.CREATE",
+      "value": "CREATE"
+    },
+    {
+      "key": "Message.Button.CANCEL",
+      "value": "CANCEL"
+    },
+    {
+      "key": "Message.Button.BREED",
+      "value": "BREED"
+    },
+    {
+      "key": "Message.Button.SACRIFICE",
+      "value": "SACRIFICE"
+    },
+    {
+      "key": "Message.Button.MORPH",
+      "value": "MORPH"
+    },
+    {
+      "key": "Message.Button.PRICE",
+      "value": "PRICE"
+    },
+    {
+      "key": "Blockchain.Text.Block",
+      "value": "BLOCKS"
+    },
+    {
+      "key": "Blockchain.Text.Target",
+      "value": "Target"
+    },
+    {
+      "key": "Blockchain.Text.Total",
+      "value": "Total"
+    },
+    {
+      "key": "Blockchain.Text.Epoch",
+      "value": "Epoch"
+    },
+    {
+      "key": "Blockchain.Text.Era",
+      "value": "Era"
+    },
+    {
+      "key": "Blockchain.Text.ChainName",
+      "value": "Chain Name"
+    },
+    {
+      "key": "AccountInfo.Button.BuyDmogs",
+      "value": "Buy DMOGS"
+    },
+    {
+      "key": "AccountInfo.Button.AvgReturn",
+      "value": "Avg. Return"
+    },
+    {
+      "key": "Main.ButtonText.Stash",
+      "value": "STASH"
+    },
+    {
+      "key": "Main.ButtonText.Skills",
+      "value": "SKILLS"
+    },
+    {
+      "key": "Main.ButtonText.Explorer",
+      "value": "EXPLORER"
+    },
+    {
+      "key": "Main.ButtonText.Morph",
+      "value": "MORPH"
+    },
+    {
+      "key": "Main.ButtonText.Price",
+      "value": "PRICE"
+    },
+    {
+      "key": "Main.ButtonText.Breed",
+      "value": "BREED"
+    },
+    {
+      "key": "Main.ButtonText.Sacrifice",
+      "value": "SACRIFICE"
+    },
+    {
+      "key": "MainMogwais.Text.Mogwais",
+      "value": "MOGWAIS"
+    },
+    {
+      "key": "MainMogwais.Text.Buffer",
+      "value": "BUFFER"
+    },
+    {
+      "key": "MainMogwais.Text.BufferValue",
+      "value": "INQUIRY"
+    },
+    {
+      "key": "MainStats.Text.Mental",
+      "value": "MENTAL"
+    },
+    {
+      "key": "MainStats.Text.Monitor",
+      "value": "MONITOR"
+    },
+    {
+      "key": "MainStats.Text.Physical",
+      "value": "PHYSICAL"
+    },
+    {
+      "key": "MainStats.Text.Willpower",
+      "value": "WILLPOWER"
+    },
+    {
+      "key": "MainStats.Text.Logic",
+      "value": "LOGIC"
+    },
+    {
+      "key": "MainStats.Text.Intuition",
+      "value": "INTUITION"
+    },
+    {
+      "key": "MainStats.Text.Charisma",
+      "value": "CHARISMA"
+    },
+    {
+      "key": "MainStats.Text.Health",
+      "value": "HEALTH"
+    },
+    {
+      "key": "MainStats.Text.Psy",
+      "value": "PSY"
+    },
+    {
+      "key": "MainStats.Text.Body",
+      "value": "BODY"
+    },
+    {
+      "key": "MainStats.Text.Agility",
+      "value": "AGILITY"
+    },
+    {
+      "key": "MainStats.Text.Reaction",
+      "value": "REACTION"
+    },
+    {
+      "key": "MainStats.Text.Strength",
+      "value": "STRENGTH"
+    },
+    {
+      "key": "MainStats.Text.Price",
+      "value": "PRICE"
+    },
+    {
+      "key": "MainStats.Text.Lock",
+      "value": "LOCK"
+    },
+    {
+      "key": "MainEvolution.Title.Evolution",
+      "value": "EVOLUTION"
+    },
+    {
+      "key": "MainEvolution.Text.Evolution",
+      "value": "EVOLUTION"
+    },
+    {
+      "key": "MainEvolution.Text.PhaseValue",
+      "value": "Old & Wise"
+    },
+    {
+      "key": "MainEvolution.Text.PhaseDescription",
+      "value": "Max. Evolution reached"
+    },
+    {
+      "key": "MainExpPvp.Text.ExpPvp",
+      "value": "EXP & PVP"
+    },
+    {
+      "key": "MainExpPvp.Text.Experience",
+      "value": "EXPERIENCE"
+    },
+    {
+      "key": "MainExpPvp.Text.League",
+      "value": "LEAGUE"
+    },
+    {
+      "key": "InteractionPanel.Text.Breed",
+      "value": "Pairing two mogwais together will always lead to a miracle where stellar souls will join to celebrate the birth giving event."
+    },
+    {
+      "key": "InteractionPanel.ButtonText.Breed",
+      "value": "BREED"
+    },
+    {
+      "key": "InteractionPanel.ButtonText.Cancel",
+      "value": "CANCEL"
+    },
+    {
+      "key": "scene.textfield_name",
+      "value": "text and <color=green>color</color>"
+    }
+  ]
+}

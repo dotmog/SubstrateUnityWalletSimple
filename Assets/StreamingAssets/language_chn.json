@@ -1,0 +1,288 @@
+{
+  "items": [
+    {
+      "key": "Empty",
+      "value": "空"
+    },
+    {
+      "key": "Intro.Button.Start",
+      "value": "开始"
+    },
+    {
+      "key": "Login.CreateAccountText",
+      "value": "创建账号"
+    },
+    {
+      "key": "Login.DecryptText",
+      "value": "解密"
+    },
+    {
+      "key": "Login.PswDummyText",
+      "value": "输入密码..."
+    },
+    {
+      "key": "Login.PswText",
+      "value": "私钥加密"
+    },
+    {
+      "key": "Login.NoWalletText",
+      "value": "此设备上没有钱包，我们将会为您创建一个！"
+    },
+    {
+      "key": "Login.MessageText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.MessageText.NoAccount",
+      "value": "当前没有账号，请先创建一个新的账号。"
+    },
+    {
+      "key": "Login.MessageText.Ready",
+      "value": "准备起飞！"
+    },
+    {
+      "key": "Login.MessageText.NewAccount",
+      "value": "请输入您新账号的用户名和密码。"
+    },
+    {
+      "key": "Login.MessageText.InvalidWalletName",
+      "value": "无效的钱包名，请确保它符合正确的命名规范。"
+    },
+    {
+      "key": "Login.MessageText.InvalidPassword",
+      "value": "无效的密码，至少需要1个大写字母，1个小写字母和数字。"
+    },
+    {
+      "key": "Login.MessageText.WrongPassword",
+      "value": "密码错误，解锁账号失败。"
+    },
+    {
+      "key": "Login.MessageText.AccountFailed",
+      "value": "不能创建账户，请联系技术支持！"
+    },
+    {
+      "key": "Login.ConnectionText.None",
+      "value": ""
+    },
+    {
+      "key": "Login.ConnectionText.On",
+      "value": "已连接"
+    },
+    {
+      "key": "Login.ConnectionText.Off",
+      "value": "连接断开"
+    },
+    {
+      "key": "Message.Title.CREATE",
+      "value": "创建MOGWAI"
+    },
+    {
+      "key": "Message.Text.CREATE",
+      "value": "将mogwai的灵魂注入准备好的身体中。"
+    },
+    {
+      "key": "Message.Title.BREED",
+      "value": "培育MOGWAI"
+    },
+    {
+      "key": "Message.Text.BREED",
+      "value": "将两个mogwai合体，必将引发一个奇迹，连恒星之灵都会礼赞此诞生。"
+    },
+    {
+      "key": "Message.Title.SACRIFICE",
+      "value": "牺牲MOGWAI"
+    },
+    {
+      "key": "Message.Text.SACRIFICE",
+      "value": "将灵魂从这个身体中移出是最终决定，不能回退，但可能会有一些未发现的秘密。"
+    },
+    {
+      "key": "Message.Title.MORPH",
+      "value": "变形MOGWAI"
+    },
+    {
+      "key": "Message.Text.MORPH",
+      "value": "变形一个杂交mogwai会将其遗传库片段替换为其他四个组合之一"
+    },
+    {
+      "key": "Message.Button.CREATE",
+      "value": "创建"
+    },
+    {
+      "key": "Message.Button.CANCEL",
+      "value": "取消"
+    },
+    {
+      "key": "Message.Button.BREED",
+      "value": "培育"
+    },
+    {
+      "key": "Message.Button.SACRIFICE",
+      "value": "牺牲"
+    },
+    {
+      "key": "Message.Button.MORPH",
+      "value": "变形"
+    },
+    {
+      "key": "Blockchain.Text.Block",
+      "value": "区块"
+    },
+    {
+      "key": "Blockchain.Text.Target",
+      "value": "目标"
+    },
+    {
+      "key": "Blockchain.Text.Total",
+      "value": "全部的"
+    },
+    {
+      "key": "Blockchain.Text.Epoch",
+      "value": "时代"
+    },
+    {
+      "key": "Blockchain.Text.Era",
+      "value": "年代"
+    },
+	{
+      "key": "Blockchain.Text.ChainName",
+      "value": "链名称"
+    },
+	{
+      "key": "AccountInfo.Button.BuyDmogs",
+      "value": "购买DMOG"
+    },
+	{
+      "key": "AccountInfo.Button.AvgReturn",
+      "value": "平均收益"
+    },
+	{
+      "key": "Main.ButtonText.Stash",
+      "value": "存放"
+    },
+	{
+      "key": "Main.ButtonText.Skills",
+      "value": "技能"
+    },
+	{
+      "key": "Main.ButtonText.Explorer",
+      "value": "探索者"
+    },
+	{
+      "key": "Main.ButtonText.Morph",
+      "value": "变形"
+    },
+	{
+      "key": "Main.ButtonText.Breed",
+      "value": "繁殖"
+    },
+	{
+      "key": "Main.ButtonText.Sacrifice",
+      "value": "牺牲"
+    },
+	{
+      "key": "MainMogwais.Text.Mogwais",
+      "value": "MOGWAIS"
+    },
+	{
+      "key": "MainMogwais.Text.Buffer",
+      "value": "缓冲"
+    },
+	{
+      "key": "MainMogwais.Text.BufferValue",
+      "value": "询问"
+    },
+	{
+      "key": "MainStats.Text.Mental",
+      "value": "精神的"
+    },
+	{
+      "key": "MainStats.Text.Monitor",
+      "value": "监控"
+    },
+	{
+      "key": "MainStats.Text.Physical",
+      "value": "身体的"
+    },
+	{
+      "key": "MainStats.Text.Willpower",
+      "value": "意志"
+    },
+	{
+      "key": "MainStats.Text.Logic",
+      "value": "逻辑"
+    },
+	{
+      "key": "MainStats.Text.Intuition",
+      "value": "直觉"
+    },
+	{
+      "key": "MainStats.Text.Charisma",
+      "value": "魅力"
+    },
+	{
+      "key": "MainStats.Text.Health",
+      "value": "健康"
+    },
+	{
+      "key": "MainStats.Text.Psy",
+      "value": "心理"
+    },
+	{
+      "key": "MainStats.Text.Body",
+      "value": "身体"
+    },
+	{
+      "key": "MainStats.Text.Agility",
+      "value": "敏捷"
+    },
+	{
+      "key": "MainStats.Text.Reaction",
+      "value": "反应"
+    },
+	{
+      "key": "MainStats.Text.Strength",
+      "value": "力量"
+    },
+	{
+      "key": "MainStats.Text.Price",
+      "value": "价格"
+    },
+	{
+      "key": "MainStats.Text.Lock",
+      "value": "锁定"
+    },
+	{
+      "key": "MainEvolution.Title.Evolution",
+      "value": "进化"
+    },
+	{
+      "key": "MainEvolution.Text.Evolution",
+      "value": "进化"
+    },
+	{
+      "key": "MainEvolution.Text.PhaseValue",
+      "value": "年龄与智慧"
+    },
+	{
+      "key": "MainEvolution.Text.PhaseDescription",
+      "value": "达到最大进化程度"
+    },
+	{
+      "key": "MainExpPvp.Text.ExpPvp",
+      "value": "经验和PVP"
+    },
+	{
+      "key": "MainExpPvp.Text.Experience",
+      "value": "经验"
+    },
+	{
+      "key": "MainExpPvp.Text.League",
+      "value": "联盟"
+    },
+    {
+      "key": "scene.textfield_name",
+      "value": "text and <color=green>color</color>"
+    }
+  ]
+}
